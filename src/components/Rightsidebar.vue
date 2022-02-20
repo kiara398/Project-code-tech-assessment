@@ -24,24 +24,24 @@
         <div class="card">
         <div class="card-body">
          <div class="content">
-          <h6>Received LTC</h6>
-          <h6> +15.08USD</h6>
+          <p>Received LTC</p>
+          <p> +15.08USD</p>
         </div>
         <div class="content">
-          <h6>09/28/2020 19:22</h6>
-          <h6> +15.08USD</h6>
+          <p>09/28/2020 19:22</p>
+          <p> +15.08USD</p>
         </div>
             </div>
         </div> <br/>
          <div class="card">
              <div class="card-body">
         <div class="content">
-          <h6>Received LINK</h6>
-          <h6> +15.08USD</h6>
+          <p>Received LINK</p>
+          <p> +15.08USD</p>
         </div>
         <div class="content">
-          <h6>09/28/2020 19:22</h6>
-          <h6> +15.08USD</h6>
+          <p>09/28/2020 19:22</p>
+          <p> +15.08USD</p>
         </div>
             </div>
          </div> <br/>
@@ -103,6 +103,7 @@ h4{
 }
 .content{
     display: flex;
+    font-size: 13px;
     justify-content: space-evenly;
 }
 .wal{
