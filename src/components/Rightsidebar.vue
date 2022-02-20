@@ -83,7 +83,7 @@ export default {
     padding: 5% 0;
 }
 .crd-3{
-    background: rgb(178, 149, 184);
+    background: rgb(208, 200, 253);
     padding: 2%;
     height: auto;
 }
